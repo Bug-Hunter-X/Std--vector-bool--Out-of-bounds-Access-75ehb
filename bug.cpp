@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations on vec ... bool value = vec.at(index); // Accessing an element that is out of bounds
